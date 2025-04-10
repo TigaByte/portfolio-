@@ -21,6 +21,7 @@ const ProfilePage: React.FC = () => {
                     <a href="#" className="hover:underline">discord</a>
                     <a href="https://github.com/TigaByte" className="hover:underline">github</a>
                     <a href="mailto:me" className="hover:underline">email</a>
+                    <a href="/blog" className="hover:underline">blog</a>
                     <a ></a>
                 </div>
             </div>
